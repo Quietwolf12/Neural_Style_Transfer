@@ -28,8 +28,8 @@ As mentioned in the research paper by Leon Gatys et al., I have used BFGS algori
 
 | Content Image | Style Image | Generated Image |
 |:-------------:|:-----------:|:---------------:|
-| ![Content Image 1](images/content%20images/content_img1.jpg) | ![Style Image 1](images/style%20images/style_img1.jpg) | ![Generated Image 1](images/results/result1.jpg) |
-| ![Content Image 2](images/content%20images/content_img2.jpg) | ![Style Image 2](images/style%20images/style_img2.jpg) | ![Generated Image 2](images/results/result2.jpg) |
-| ![Content Image 3](images/content%20images/content_img3.jpg) | ![Style Image 3](images/style%20images/style_img3.jpg) | ![Generated Image 3](images/results/result3.jpg) |
+| ![Content Image 1](images/content%20images/content_img1.jpg) | ![Style Image 1](images/style%20images/style_img1.jpg) | ![Generated Image 1](images/results/result_img1.jpg) |
+| ![Content Image 2](images/content%20images/content_img2.jpg) | ![Style Image 2](images/style%20images/style_img2.jpg) | ![Generated Image 2](images/results/result_img2.jpg) |
+| ![Content Image 3](images/content%20images/content_img3.jpg) | ![Style Image 3](images/style%20images/style_img3.jpg) | ![Generated Image 3](images/results/result3_img3.jpg) |
 
 
