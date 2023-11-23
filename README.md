@@ -24,5 +24,18 @@ As mentioned in the research paper by Leon Gatys et al., I have used BFGS algori
 **Style Layers:**
 - There are no constraints to choose style layers; we can choose from anywhere in the model.
 
-##Results
+## Results
+
+| Content Image | Style Image | Generated Image |
+|:-------------:|:-----------:|:---------------:|
+| ![Content Image 1](images/content images/content_img1.jpg) | ![Style Image 1](images/style images/style_img1.jpg) | ![Generated Image 1](images/results/result_img1.jpg) |
+
+| Content Image | Style Image | Generated Image |
+|:-------------:|:-----------:|:---------------:|
+| ![Content Image 2](images/content images/content_img2.jpg) | ![Style Image 2](images/style images/style_img2.jpg) | ![Generated Image 2](images/results/result_img2.jpg) |
+
+| Content Image | Style Image | Generated Image |
+|:-------------:|:-----------:|:---------------:|
+| ![Content Image 3](images/content images/content_img3.jpg) | ![Style Image 3](images/style images/style_img3.jpg) | ![Generated Image 3](images/results/result_img3.jpg) |
+
 
