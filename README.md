@@ -4,7 +4,7 @@ Neural Style Transfer using Transfer Learning in Keras and TensorFlow
 
 ## Project Structure
 
-There is only one ipnyb file that includes the code for generation of new image when a content and style image is given.
+There is only one ipynb file that includes the code for generation of new image when a content and style image is given.
 
 ### Approach
 I have used a VGG16 which is a pretrained CNN model containing 16 layers. I passed a content image, a style image, and a generated image (randomly generated or initialized as one of content or style image) through the model.
