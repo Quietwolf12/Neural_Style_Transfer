@@ -17,7 +17,7 @@ I have used a VGG16 which is a pretrained CNN model containing 16 layers. I pass
 - **Total Loss:** Weighted sum of all losses is calculated and minimized.
 
 ### Optimizer
-As mentioned in the research paper by Leon Gatys et al., I have used BFGS algorithm (An Iterative Nonlinear optimization method) of scipy to minimize loss. Instead, we can also use the Adam optimizer or any other to minimize loss.
+As mentioned in the [paper](https://arxiv.org/abs/1508.06576) by Leon Gatys et al., I have used BFGS algorithm (An Iterative Nonlinear optimization method) of scipy to minimize loss. Instead, we can also use the Adam optimizer or any other to minimize loss.
 
 ### Choosing layers
 **Content Layer:**
