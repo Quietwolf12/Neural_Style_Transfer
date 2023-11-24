@@ -5,6 +5,7 @@ Neural Style Transfer using Transfer Learning in Keras and TensorFlow
 ## Project Structure
 
 There is only one ipynb file that includes the code for generation of new image when a content and style image is given.
+Here is the link of colab notebook for the same [colab](https://colab.research.google.com/drive/1lNhO5PQE9BCPV78nxKCngfR9Mt3Xpq1j?usp=sharing)
 
 ### Approach
 I have used a VGG16 which is a pretrained CNN model containing 16 layers. I passed a content image, a style image, and a generated image (randomly generated or initialized as one of content or style image) through the model.
@@ -31,5 +32,9 @@ As mentioned in the research paper by Leon Gatys et al., I have used BFGS algori
 | ![Content Image 1](images/content%20images/content_img1.jpg) | ![Style Image 1](images/style%20images/style_img1.jpg) | ![Generated Image 1](images/results/result_img1.jpg) |
 | ![Content Image 2](images/content%20images/content_img2.jpg) | ![Style Image 2](images/style%20images/style_img2.jpg) | ![Generated Image 2](images/results/result_img2.jpg) |
 | ![Content Image 3](images/content%20images/content_img3.jpg) | ![Style Image 3](images/style%20images/style_img3.jpg) | ![Generated Image 3](images/results/result_img3.jpg) |
+
+## References
+
+- [Leon Gatys et al., A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 
 
